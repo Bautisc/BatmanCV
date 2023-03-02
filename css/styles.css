@@ -1,0 +1,79 @@
+body {
+  margin: 0px;
+  font-family: "Times New Roman", Times, serif;
+}
+.logoBatman {
+  display: block;
+  margin: auto;
+  padding-top: 20.91px;
+  background-color: #e6e6e6;
+  width: 100px;
+  height: 146px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.sectionHeader {
+  background-color: #e6e6e6;
+}
+.sectionDatosP {
+  margin-top: 128px;
+}
+.sectionDatosP span {
+  font-style: italic;
+}
+section {
+  width: 100%;
+}
+.CVtitle {
+  text-align: center;
+
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+section h3,
+.CVtitle {
+  background-color: #c4c4c4;
+  color: #005677;
+  text-transform: uppercase;
+  letter-spacing: 8px;
+}
+section h3 {
+  height: 30px;
+  padding-top: 6px;
+  padding-left: 12px;
+}
+section dl {
+  padding-left: 19px;
+}
+section dd {
+  margin-left: 80px;
+}
+section dt {
+  padding-top: 10px;
+}
+section span {
+  font-weight: bold;
+}
+
+footer {
+  height: 37px;
+  margin-top: 150px;
+  background-color: #005677;
+  padding-top: 10px;
+  text-align:center;
+}
+.fa-linkedin,
+.fa-instagram,
+.telBatman {
+  color: #ffffff;
+  height: 25px;
+  width: 25px;
+  font-weight:bold;
+  text-align:center;
+}
+
+a{
+	color:white;
+	font-weight:bold;
+	margin-right:9px;
+}
